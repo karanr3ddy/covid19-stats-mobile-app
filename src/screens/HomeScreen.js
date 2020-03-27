@@ -88,7 +88,7 @@ class CountryWiseData extends Component {
                 <h3>Country Data</h3>
         <h4>Showing data for {today.format('MMM')} Month</h4>
                 <ResponsiveContainer height={250}>
-                    <AreaChart width={730} height={250} data={chartData}
+                    <AreaChart height={250} data={chartData}
                         margin={{ top: 10, right: 30, left: 0, bottom: 0 }}>
                         <defs>
                             <linearGradient id="colorUv" x1="0" y1="0" x2="0" y2="1">
