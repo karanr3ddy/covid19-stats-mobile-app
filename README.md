@@ -1,5 +1,6 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/aeace748-ac8b-464e-b022-c8c430011aa8/deploy-status)](https://app.netlify.com/sites/covid19-l33t/deploys)
 ![CI](https://github.com/karanr3ddy/covid19-stats-mobile-app/workflows/CI/badge.svg?branch=master)
+
 project is hosted at [https://covid19-l33t.netlify.com/](https://covid19-l33t.netlify.com/)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
